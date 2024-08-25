@@ -12,7 +12,7 @@ except:
     
 E = '\033[1;31m'
 F = '\033[2;32m'    
-token = '7260472734:AAEVjPeDqqHru05Yq9q7qO-gL6cLz1qE7wM'
+token = '7454585446:AAE7zE1rH0uXfflyeWWSUJ3MkQ0swGpZLeQ'
 ID = '5983253591'
 def Generate_Num() -> str:
     h = [str("5" + str(random.randint(1, 9))) for _ in range(8)]
